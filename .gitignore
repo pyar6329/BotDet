@@ -64,3 +64,4 @@ Desktop.ini
 
 # binstubs
 /.bin/
+/.venv/

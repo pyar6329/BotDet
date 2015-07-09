@@ -1,1 +1,0 @@
-botdet README
